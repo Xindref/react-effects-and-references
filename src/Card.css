@@ -1,0 +1,5 @@
+.card {
+    position: absolute;
+    top: 185px;
+    left: calc(50% - 110px);
+}
